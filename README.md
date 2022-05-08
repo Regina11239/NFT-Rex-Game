@@ -1,4 +1,4 @@
-# NFT_Rex-Game
+# NFT-Rex Game
 
 ###### A game that resembles Google Dinosaur Game. 
 
